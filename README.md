@@ -1,7 +1,7 @@
 # AndroidLayoutCollison
 
 
-This sample demonstrates two behaviors of merging multiple libraries with the same layout name. Referenced in post http://www.studiokuma.com/s9y/index.php?/archives/310-Android-Layout.html
+This sample demonstrates two behaviors of merging multiple libraries with the same layout name. Referenced in post https://www.studiokuma.com/home.php?article=310
 
 ## What does it demonstrates?
 - Library will load the layout overriden by other libraries / hosted app, thus causing crash when the library tries to access expected child views
