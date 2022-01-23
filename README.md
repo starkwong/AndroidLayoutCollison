@@ -17,7 +17,7 @@ This sample demonstrates two behaviors of merging multiple libraries with the sa
     - activity_main.xml (To be collide with same file in library1)
     - activity_library.xml (To be collide with same file in library2)
 - library1: 
-    - activity_main.xml (To be replaced due to collision, causing library2 to crash)
+    - activity_main.xml (To be replaced due to collision, causing library1 to crash)
 - library2:
     - activity_library.xml (To be hijacked due to collision)
 
