@@ -10,7 +10,7 @@ This sample demonstrates two behaviors of merging multiple libraries with the sa
 ## How to examine the behaviors?
 - All behaviors can be triggered when clicking the "Hello World! 1" TextView after launched the application
 - Click "library1" to examine the crash when Library 1 tries to access the child view that is expected to exist
-- Click "librrar2" to examine the hosted app hijacked the TextView text by changing the root view of the layout
+- Click "library2" to examine the hosted app hijacked the TextView text by changing the root view of the layout
 
 ## Directory placement for the layout files
 - Host Application: 
